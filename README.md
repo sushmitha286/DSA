@@ -1,2 +1,2 @@
-# DSA-Tap-Academy
+# DSA
 1.Time complexity
