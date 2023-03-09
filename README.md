@@ -9,6 +9,8 @@
 
 5:GCD or HCM  by using Brute force analysis
 
-6:GCD or LCM by using euclid analysis
+6:GCD or HCM by using euclid analysis
 
-7.GCD or LCM by using optimised euclid analysis
+7.GCD or HCM by using optimised euclid analysis
+
+8.LCM
