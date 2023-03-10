@@ -14,3 +14,5 @@
 7.GCD or HCM by using optimised euclid analysis
 
 8.LCM
+
+9.Prime Number
