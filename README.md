@@ -22,3 +22,5 @@
 11.print all the Divisor of a given number.
 
 12.Prime factor of given number
+
+13.Bit Manipulation: Binary to decimal and decimal to binary.
