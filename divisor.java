@@ -29,7 +29,7 @@ int i = 0;
  }
    for( ;i>=1;i--)
     {
-        if(n%i==0){
+        if(n%i==0 && i!=n/i){
             System.out.println(n/i);
         }
 
