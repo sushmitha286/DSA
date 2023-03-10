@@ -18,3 +18,5 @@
 9.Prime Number
 
 10.finding prime number- sieve of Eratostene program
+
+11.print all the Divisor of a given number.
