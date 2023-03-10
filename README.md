@@ -16,3 +16,5 @@
 8.LCM
 
 9.Prime Number
+
+10.finding prime number- sieve of Eratostene program
