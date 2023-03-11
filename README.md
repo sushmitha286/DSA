@@ -25,4 +25,4 @@
 
 13.Bit Manipulation: Binary to decimal and decimal to binary.
 
-14.Find the right most set bit
+14.Find the Position of right most set bit
