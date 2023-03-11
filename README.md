@@ -24,3 +24,5 @@
 12.Prime factor of given number
 
 13.Bit Manipulation: Binary to decimal and decimal to binary.
+
+14.Find the right most set bit
