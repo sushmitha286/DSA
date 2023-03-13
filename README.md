@@ -28,3 +28,5 @@
 14.Find the Position of right most set bit
 
 15.Count the number of set bits in a given number-kernighan's algorithm
+
+16.Find whether number is a power of 2-adobe interview question
