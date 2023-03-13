@@ -26,3 +26,5 @@
 13.Bit Manipulation: Binary to decimal and decimal to binary.
 
 14.Find the Position of right most set bit
+
+15.Count the number of set bits in a given number-kernighan's algorithm
